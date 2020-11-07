@@ -3,11 +3,6 @@
     {
         font-size: 2.7vh !important;
     }
-
-    #issues-tittle
-    {
-        font-size: 3vh !important;
-    }
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
@@ -23,7 +18,7 @@
 
 #navbarNav {
     justify-content: flex-end;
-    padding-right: 3ss0px;
+    padding-right: 30px;
 }
 
 #intro-parent {
@@ -44,7 +39,6 @@
 #segundaParte {
     background-color: #061E26;
     height: 70vh;
-    display: flexbox;
 }
 
 .pulse {
