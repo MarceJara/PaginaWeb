@@ -1,4 +1,4 @@
-# PaginaWeb
+# Pagina Web
 
 Este proyecto nace con la finalidad de crear un página web con información relacionada a mis ambiciones, ideas, 
 temas en los que estoy interesado y para poder practicar mis habilidades de programación.
