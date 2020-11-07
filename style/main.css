@@ -44,7 +44,7 @@
 #segundaParte {
     background-color: #061E26;
     height: 70vh;
-    display: flex;
+    display: flexbox;
 }
 
 .pulse {
@@ -68,4 +68,20 @@
 
 #issues-tittle {
     color: #ffffff;
+}
+
+.table{
+    color: #ffffff !important;
+}
+
+.table td, table th {
+    border-top: 1px !important;
+}
+
+#tabla{
+    padding: 40px 40px 0px 40px;
+}
+
+.NotFound{
+    color: #858585;
 }
